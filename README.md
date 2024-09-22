@@ -1,2 +1,2 @@
 # LLD
-low level design patterns 
+low level design
